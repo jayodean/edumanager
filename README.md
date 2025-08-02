@@ -2,7 +2,7 @@
 
 **EduManage** is a modern web-based teacher portal designed to simplify class and student management for educators. Built with React, HTML, CSS, and JavaScript, it provides a clean and intuitive UI for everyday school operations.
 
-🔗 **Live Demo:** [https://jayodean.github.io/t-portal/edumanage]
+🔗 **Live Demo:** [https://jayodean.github.io/t-portal/Dashboard.html]
 
 ---
 
